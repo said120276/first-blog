@@ -1,8 +1,8 @@
 ---
-layout:post
-title:first title of forst post
-tags:first markdown
-categories:demo
+layout: post
+title: first title of forst post
+tags: first markdown
+categories: demo
 ---
 
 I start to write  my first post
