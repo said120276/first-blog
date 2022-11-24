@@ -1,8 +1,8 @@
 ---
-layout:post
-title:next post
-tags:second markdown
-categories:demo
+layout: post
+title: next post
+tags: second markdown
+categories: demo
 ---
 
 I start writing the second post
