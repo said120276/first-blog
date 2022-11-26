@@ -6,7 +6,7 @@ categories: demo
 ---
 
 I start writing the second post
-![this an image of cat](https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Nazareth-magical-city.jpg](https://alwankids.com/img/classes/calss-img1.jpg)
+![this an image of cat](https://alwankids.com/img/classes/calss-img1.jpg)
 
 -----------------------
 
