@@ -1,6 +1,6 @@
 ---
 layout: post
-title: next post
+title: The Illutated Stable Diffusion
 tags: second markdown
 categories: demo
 ---
