@@ -9,7 +9,7 @@ I start to write  my first post
 
 ## two heads
 
-![add image](/assets/Screenshot(3).png)
+![add image](/docs/assets/doubleResize.jpg)
 
 any text with no empty text
 1. one
