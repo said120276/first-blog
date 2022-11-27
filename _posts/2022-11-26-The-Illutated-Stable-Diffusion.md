@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Illutated Stable Diffusion
+title: ظهور نموذج الترانزفورمر
 tags: second markdown
 categories: demo
 ---
