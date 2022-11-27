@@ -28,7 +28,7 @@ table is like this :
 
 Stable Diffusion is versatile in that it can be used in a number of different ways. Let’s focus at first on image generation from text only (text2img). The image above shows an example text input and the resulting generated image (The actual complete prompt is here). Aside from text to image, another main way of using it is by making it alter images (so inputs are text + image).
 
-##The Components of Stable Diffusion
+## The Components of Stable Diffusion
 
 Stable Diffusion is a system made up of several components and models. It is not one monolithic model.
 
@@ -37,7 +37,7 @@ As we look under the hood, the first observation we can make is that there’s a
 
 The image generator goes through two stages:
 
-##1- Image information creator
+## 1- Image information creator
 
 This component is the secret sauce of Stable Diffusion. It’s where a lot of the performance gain over previous models is achieved.
 
@@ -45,6 +45,6 @@ This component runs for multiple steps to generate image information. This is th
 
 The image information creator works completely in the image information space (or latent space). We’ll talk more about what that means later in the post. This property makes it faster than previous diffusion models that worked in pixel space. In technical terms, this component is made up of a UNet neural network and a scheduling algorithm.
 
-##2- Image Decoder
+## 2- Image Decoder
 
 The image decoder paints a picture from the information it got from the information creator. It runs only once at the end of the process to produce the final pixel image.
