@@ -5,13 +5,12 @@ tags: second markdown
 categories: demo
 ---
 
-(V2 Nov 2022: Updated images for more precise description of forward diffusion thanks to Jeremy and Hamel. A few more images in this version)
+ الآلة في مجال معالجة اللغة الطبيعية ورؤية الحاسب، حيث يعتقد الكثير من الخبراء أن الترانزفورمر في طريقه لاستبدال أحد أهم الشبكات العصبية المفضلة في مجال التعلم العميق، ألا وهي شبكات ال  RNN.
 
-AI image generation is the most recent AI capability blowing people’s minds (mine included). The ability to create striking visuals from text descriptions has a magical quality to it and points clearly to a shift in how humans create art. The release of Stable Diffusion is a clear milestone in this development because it made a high-performance model available to the masses (performance in terms of image quality, as well as speed and relatively low resource/memory requirements).
 
-After experimenting with AI image generation, you may start to wonder how it works.
+ ساهم تطور الترانزفومرز في تشكيل حراك ملحوظ في مشهد الذكاء الاصطناعي، حيث أصبح هناك سباق محموم بين عمالقة التقنية في بناء نماذج الذكاء الاصطناعي المولدة ذات المعاملات البليونية. مثلا، السنة الماضية ، أعلنت مايكروسوفت عن نموذجها الضخم   Turing-NLG mode ذو ال ١٧ بليون معامل، تبعتها OpenAI معلنة عن نسخة ضخمة من نموذجها المولد  GPT 3  ١٧٥ بليون معامل!  أخيرا نموذج  DALL·E المذهل الذي ملأ الدنيا وشغل الناس بقدرته الخلاقة على توليد صور من النصوص المدخلة. (المزيد من مقالات منظور السابقة حول النماذج المولدة باستخدام الترانزفورمر - ١، ٢، ٣). 
 
-This is a gentle introduction to how Stable Diffusion works.
+
 ![this an image of cat](https://alwankids.com/img/classes/calss-img1.jpg)
 
 -----------------------
