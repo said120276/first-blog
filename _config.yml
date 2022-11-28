@@ -8,4 +8,4 @@ description: "My site about Jekyll on GH-Pages."
 # Build settings
 remote_theme: jekyll/minima
 url: 'https://said120276.github.io/' # your main domain
-baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
+baseurl: 'first-blog/' # if you're using custom domain keep this blank example: baseurl: ''
