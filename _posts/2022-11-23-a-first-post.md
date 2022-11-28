@@ -13,7 +13,7 @@ I start to write  my first post
 
 تاا ابليف ئةءلبع ئتءف
 
-<img src="{{ "assets/images/doubleResize.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
+<img src="{{ "assets/images/bloggif.gif" | prepend: site.baseurl | prepend: site.url}}" alt="zigzag" />
 
 any text with no empty text
 1. one
