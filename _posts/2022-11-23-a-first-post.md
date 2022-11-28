@@ -9,7 +9,7 @@ I start to write  my first post
 
 ## two heads
 
-![add image](/assets/images/doubleResize.jpg)
+<img src="{{site.baseurl | prepend: site.url}}/assets/images/doubleResize.jpg" alt="zigzag" />
 
 any text with no empty text
 1. one
