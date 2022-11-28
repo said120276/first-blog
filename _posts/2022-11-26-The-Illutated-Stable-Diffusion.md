@@ -42,7 +42,7 @@ table is like this :
 
 Stable Diffusion is versatile in that it can be used in a number of different ways. Let’s focus at first on image generation from text only (text2img). The image above shows an example text input and the resulting generated image (The actual complete prompt is here). Aside from text to image, another main way of using it is by making it alter images (so inputs are text + image).
 
-##مشهد الذكاء الاصطناعي
+## مشهد الذكاء الاصطناعي
 
 Stable Diffusion is a system made up of several components and models. It is not one monolithic model.
 
